@@ -17,5 +17,6 @@ This project implements an AI engine that predicts and manages cost and performa
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ai-cloud-anomaly-detection.git
-   cd ai-cloud-anomaly-detection
+   git clone https://github.com/R-jangir/Aws-Cloud-AI.git
+
+   cd Aws-Cloud-AI
